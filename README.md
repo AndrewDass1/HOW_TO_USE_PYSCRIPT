@@ -1,5 +1,5 @@
 # How to use PyScript
-This directory shows detailed instructions how to get started and use PyScript for HTML and Python projects on Github
+This directory shows detailed instructions how to get started and use PyScript for HTML and Python projects
 
 ## How to Incorporate PyScript in HTML
 1. HTML files most basic structure are two HTML tags shown below:
